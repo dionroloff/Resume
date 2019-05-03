@@ -8,7 +8,7 @@ class Profile extends Component {
                 <p align="left">
                     - Former English-as-a-second-language instructor who taught himself to code between classes<br/>
                     - A passion for problem-solving and coding for good<br/>
-                    - Insatiably curious
+                    - Always learning
                 </p>
             </div>
         )
